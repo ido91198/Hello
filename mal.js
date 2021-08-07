@@ -1,4 +1,4 @@
-const payload = `
+var payload = `
 <script>alert(1)</script>
 `
 function mal() {
